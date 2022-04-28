@@ -5,7 +5,7 @@ It's a Kitchen Story where Cakes are baked and Sold online.
 
 ## Development server
 
-Run `npm install` & 'npm start' for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm install` & `npm start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
